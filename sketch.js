@@ -1,6 +1,6 @@
 
 function setup() {
-  createCanvas(1000, 1000);
+  createCanvas(500, 500);
 
   ball=createSprite(200, 200, 50, 50);
 }
